@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+
+*{
+margin: 0;
+}
+
+body{
+box-sizing: border-box;
+font-family:'Xanh Mono';
+font-style: italic;
+}
+
+h1, h2, p  {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+button{
+border: none;
+}
